@@ -57,6 +57,7 @@ Please follow the [installation procedure](#installation--usage) and then run th
 import ionoscloud_api_gateway
 from ionoscloud_api_gateway.rest import ApiException
 from pprint import pprint
+import os
 
 # Defining the host is optional and defaults to https://apigateway.de-txl.ionos.com
 # See configuration.py for a list of all supported configuration parameters.
@@ -71,7 +72,7 @@ configuration = ionoscloud_api_gateway.Configuration(
 
 # Configure Bearer authorization (JWT): tokenAuth
 configuration = ionoscloud_api_gateway.Configuration(
-    access_token = os.environ["BEARER_TOKEN"]
+    token = os.environ["IONOS_TOKEN"]
 )
 
 
