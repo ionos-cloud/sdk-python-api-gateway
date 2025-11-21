@@ -40,7 +40,7 @@ configuration = ionoscloud_api_gateway.Configuration(
 
 # Configure Bearer authorization (JWT): tokenAuth
 configuration = ionoscloud_api_gateway.Configuration(
-    access_token = os.environ["BEARER_TOKEN"]
+    token = os.environ["IONOS_TOKEN"]
 )
 
 # Enter a context with an instance of the API client
@@ -124,7 +124,7 @@ configuration = ionoscloud_api_gateway.Configuration(
 
 # Configure Bearer authorization (JWT): tokenAuth
 configuration = ionoscloud_api_gateway.Configuration(
-    access_token = os.environ["BEARER_TOKEN"]
+    token = os.environ["IONOS_TOKEN"]
 )
 
 # Enter a context with an instance of the API client
@@ -212,7 +212,7 @@ configuration = ionoscloud_api_gateway.Configuration(
 
 # Configure Bearer authorization (JWT): tokenAuth
 configuration = ionoscloud_api_gateway.Configuration(
-    access_token = os.environ["BEARER_TOKEN"]
+    token = os.environ["IONOS_TOKEN"]
 )
 
 # Enter a context with an instance of the API client
@@ -306,7 +306,7 @@ configuration = ionoscloud_api_gateway.Configuration(
 
 # Configure Bearer authorization (JWT): tokenAuth
 configuration = ionoscloud_api_gateway.Configuration(
-    access_token = os.environ["BEARER_TOKEN"]
+    token = os.environ["IONOS_TOKEN"]
 )
 
 # Enter a context with an instance of the API client
@@ -399,7 +399,7 @@ configuration = ionoscloud_api_gateway.Configuration(
 
 # Configure Bearer authorization (JWT): tokenAuth
 configuration = ionoscloud_api_gateway.Configuration(
-    access_token = os.environ["BEARER_TOKEN"]
+    token = os.environ["IONOS_TOKEN"]
 )
 
 # Enter a context with an instance of the API client
