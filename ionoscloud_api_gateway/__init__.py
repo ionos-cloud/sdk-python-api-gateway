@@ -14,7 +14,7 @@
 """  # noqa: E501
 
 
-__version__ = "1.0.0-beta.2"
+__version__ = "1.0.1"
 
 # import apis into sdk package
 from ionoscloud_api_gateway.api.api_gateways_api import APIGatewaysApi

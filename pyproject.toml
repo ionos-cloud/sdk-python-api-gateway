@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ionoscloud_api_gateway"
-version = "1.0.0-beta.2"
+version = "1.0.1"
 description = "IONOS Cloud - API Gateway"
 authors = ["OpenAPI Generator Community <team@openapitools.org>"]
 license = "NoLicense"
@@ -27,8 +27,8 @@ mypy = ">= 1.5"
 
 
 [build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
 
 [tool.pylint.'MESSAGES CONTROL']
 extension-pkg-whitelist = "pydantic"
