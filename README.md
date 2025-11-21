@@ -1,3 +1,16 @@
+[![Gitter](https://img.shields.io/gitter/room/ionos-cloud/sdk-general)](https://gitter.im/ionos-cloud/sdk-general)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sdk-python-api-gateway&metric=alert_status)](https://sonarcloud.io/summary?id=sdk-python-api-gateway)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sdk-python-api-gateway&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sdk-python-api-gateway)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sdk-python-api-gateway&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=sdk-python-api-gateway)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=sdk-python-api-gateway&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=sdk-python-api-gateway)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=sdk-python-api-gateway&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=sdk-python-api-gateway)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=sdk-python-api-gateway&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=sdk-python-api-gateway)
+[![Release](https://img.shields.io/github/v/release/ionos-cloud/sdk-python-api-gateway.svg)](https://github.com/ionos-cloud/sdk-python-api-gateway/releases/latest)
+[![Release Date](https://img.shields.io/github/release-date/ionos-cloud/sdk-python-api-gateway.svg)](https://github.com/ionos-cloud/sdk-python-api-gateway/releases/latest)
+[![PyPI version](https://img.shields.io/pypi/v/ionoscloud-api-gateway)](https://pypi.org/project/ionoscloud-api-gateway/)
+
+![Alt text](.github/IONOS.CLOUD.BLU.svg?raw=true "Title")
+
 ⚠️ Note: (Product Name) is currently in the Early Access (EA) phase. We recommend keeping usage and testing to non-production critical applications. Please contact your sales representative or support for more information.
 
 # ionoscloud-api-gateway
