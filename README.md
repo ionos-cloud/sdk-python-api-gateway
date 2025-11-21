@@ -1,3 +1,5 @@
+⚠️ Note: (Product Name) is currently in the Early Access (EA) phase. We recommend keeping usage and testing to non-production critical applications. Please contact your sales representative or support for more information.
+
 # ionoscloud-api-gateway
 API Gateway is an application that acts as a \"front door\" for backend services and APIs, handling client requests and routing them to the appropriate backend.
 
